@@ -4,3 +4,8 @@ const a = ()=>{
 }
 
 a();
+
+
+const newAFunc = ()=>{
+    console.log("new a func");
+}
